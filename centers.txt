@@ -1,0 +1,5 @@
+X: 557 Y: 252 Color: 2
+X: 359 Y: 258 Color: 1
+X: 242 Y: 151 Color: 1
+X: 145 Y: 343 Color: 2
+X: 350 Y: 352 Color: 2
